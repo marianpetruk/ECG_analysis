@@ -1,7 +1,9 @@
-https://github.com/luishowell/ecg-detectors
+
 
 # ECG Detectors
 A collection of 7 ECG hearbeat detection algorithms implemented in Python. Developed in conjunction with a new ECG database: http://researchdata.gla.ac.uk/716/.
+
+(github repository link)[https://github.com/luishowell/ecg-detectors]
 
 ## Class Initalisation
 Before the detectors can be used the class must first be initalised with the sampling rate of the ECG recording
