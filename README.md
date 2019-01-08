@@ -1,12 +1,18 @@
 # ECG ANALYSIS
 
 
-# Motivation
+## Motivation
 ECG is a type of time-series data, it has its own particular properties.
 This project is created to learn these specifics and how to obtain valuable features from the ECG signal. In particular, QRS complexes, RR intervals.
 
 
-# Screenshots
+## QRS complex
+Visualization:
+
+<img src="images/ECG_principle_slow.gif" width="300px"/>
+
+
+## Screenshots
 
 Raw signal:
 ![Raw signal](images/raw_signal.png)
@@ -26,10 +32,12 @@ Comparison with different R-peaks detecors:
 
 
 
-# Dependencies
+## Dependencies
   to be added soon
 
 
-# Literature:
+## Literature:
     1. Pan-Tomkins algorithm (Pan J., Tompkins W. J., A real-time QRS detection algorithm, IEEE Transactions on Biomedical Engineering, Vol. BME-32, No. 3, March 1985, pp. 230-236).
-    2.
+    2. [ECGwaves.com](https://ecgwaves.com/ecg-normal-p-wave-qrs-complex-st-segment-t-wave-j-point/)
+    3. ECG filtering T-61.181 – Biomedical Signal Processing Presentation 11.11.2004 Matti Aksela (Aalto University)
+    4.
