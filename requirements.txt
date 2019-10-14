@@ -23,7 +23,7 @@ ipykernel=5.1.0=py37h39e3cac_0
 ipython=7.2.0=py37h39e3cac_0
 ipython_genutils=0.2.0=py37_0
 jedi=0.13.2=py37_0
-jinja2=2.10=py37_0
+jinja2=2.10.3=py_0
 jpeg=9b=h024ee3a_2
 jsonschema=2.6.0=py37_0
 jupyter_client=5.2.4=py37_0
