@@ -2,6 +2,7 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
+<a href="https://www.buymeacoffee.com/maryan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" width="150px" height="40px" ></a>
 
 ## Motivation
 ECG is a type of time-series data, it has its own particular properties.
